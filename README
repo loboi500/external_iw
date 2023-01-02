@@ -1,15 +1,3 @@
-
-This is 'iw', a tool to use nl80211.
-
-
-To build iw, just enter 'make'. If that fails, set the
-PKG_CONFIG_PATH environment variable to allow the Makefile
-to find libnl.
-
-
-'iw' is currently maintained at http://git.sipsolutions.net/iw.git/,
-some more documentation is available at
-http://wireless.kernel.org/en/users/Documentation/iw.
-
-Please send all patches to Johannes Berg <johannes@sipsolutions.net>
-and CC linux-wireless@vger.kernel.org for community review.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16a68c50403721cd8d324ae02f18ea5f7b9cdbe0cdffa80766e7218924ece79d
+size 464
